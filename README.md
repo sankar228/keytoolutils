@@ -1,4 +1,4 @@
-#keytoolutils
+# keytoolutils
 
 Using this application we can do basic operations on java keystore file like adding, deleting, updating and listing keys
 ****
@@ -15,7 +15,7 @@ Using this application we can do basic operations on java keystore file like add
 |_-q,--query_|query key from keystore, -ka required|
 |_-h,--help_|keytoolutils CLI options|
 
-###Usage
+### Usage
 
 `java KeyToolUtils -ks /home/user/store/keyStore -sp ***** -h`
 
