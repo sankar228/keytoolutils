@@ -16,6 +16,7 @@ Using this application we can do basic operations on java keystore file like add
 |_-h,--help_|keytoolutils CLI options|
 
 ###Usage
+
 `java KeyToolUtils -ks /home/user/store/keyStore -sp ***** -h`
 
 `java KeyToolUtils -ks /home/user/store/keyStore -sp ***** -a -ka name.key -kv ----keyvalue----`
